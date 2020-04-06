@@ -38,7 +38,7 @@
 <!--        <activity android:name=".Main_2_dash"-->
 <!--            android:theme="@style/at2_2"-->
 <!--            android:label="@string/app_a2_2" />-->
-
+<!--123123-->
     </application>
 
 </manifest>
