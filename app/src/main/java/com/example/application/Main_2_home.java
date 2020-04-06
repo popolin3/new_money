@@ -20,8 +20,8 @@ import androidx.fragment.app.Fragment;
 
 
 public class Main_2_home extends Fragment {
-    private static final String DB_FILE = "mbook.db",//定義資料庫檔名和資料表名稱
-            DB_TABLE = "mbook";
+    private static final String DB_FILE = "book.db",//定義資料庫檔名和資料表名稱
+            DB_TABLE = "book";
     private MyDBHelper mMyDBHelper;
     private Button mButton10;
     private EditText mMoney_nt,
